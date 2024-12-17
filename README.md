@@ -17,13 +17,13 @@ Cette API fournit un ensemble d'endpoints pour gérer les différentes entités 
 1. **Clonez le dépôt** :
 
 ```bash
-git clone https://github.com/AbderahmaneThimbo/training_monitoring_api.git
+git clone https://github.com/AbderahmaneThimbo/training_monitoring-API.git
 ```
 
 2.  **Acceder au dossier du projet**
 
 ```bash
-cd training_monitoring_api
+cd training_monitoring-API.git
 ```
 
 3. **Installez les dépendances**
